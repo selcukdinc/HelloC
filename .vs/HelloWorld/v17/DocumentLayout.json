@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V5).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:TypeCon(V5).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(Video2).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:dataTypes(Video2).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dataTypes(Video2).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(Video2).c",
+              "RelativeDocumentMoniker": "dataTypes(Video2).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(Video2).c",
+              "RelativeToolTip": "dataTypes(Video2).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T19:45:39.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operators(V4).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
+              "RelativeDocumentMoniker": "Operators(V4).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
+              "RelativeToolTip": "Operators(V4).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T19:36:21.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeCon(V5).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V5).c",
+              "RelativeDocumentMoniker": "TypeCon(V5).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V5).c",
+              "RelativeToolTip": "TypeCon(V5).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T18:55:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-06T04:28:40.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

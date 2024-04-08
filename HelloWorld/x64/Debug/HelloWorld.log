@@ -1,0 +1,20 @@
+﻿  IO(V3).c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(20,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(20,10):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(20,10):
+  the missing variadic argument 2 is required by format string '%c'
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(20,10):
+  this argument is used as a buffer size
+  
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(24,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(24,10):
+  placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(24,10):
+  the missing variadic argument 3 is required by format string '%c'
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(24,10):
+  this argument is used as a buffer size
+  
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(33,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\IO(V3).c(35,1): warning C4716: 'Video3Main': must return a value
+  HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe
