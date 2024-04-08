@@ -10,7 +10,8 @@ int Operators() {
 	* '++'	Arttýrma operatörü
 	* '--'	Eksiltme operatörü
 	*/
-	printf("\n-- Operatörler --\n\n");
+	bolumBasi();
+	printf("- Operatorler --\n\n");
 	int a = 10, b = 20, c = 41, d = 2;
 	printf("a = %d\tb = %d\n", a, b);
 	printf("\na '+' b = %d", a + b);

@@ -8,7 +8,8 @@
 #include <stdio.h>
 
 int dataTypesMain() {
-	printf("\n-- Data Types --\n\n");
+	bolumBasi();
+	printf("-- Data Types --\n\n");
 	printf("int\t-\t'd'\n");
 	printf("double\t-\t'lf'\n");
 	printf("float\t-\t'f'\n");

@@ -4,7 +4,8 @@
 // Take Input and Print Output
 
 int Video3Main(){
-	printf("\nTake Input and Print Output (Video3)\n\n");
+	bolumBasi();
+	printf("Take Input and Print Output (Video3)\n\n");
 	int agev0;
 	printf("int tipinde yasinizi girin: ");
 	scanf_s("%d", &agev0);

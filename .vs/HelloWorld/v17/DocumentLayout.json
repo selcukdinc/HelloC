@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Operators(V4).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
+              "RelativeDocumentMoniker": "Operators(V4).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
+              "RelativeToolTip": "Operators(V4).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T20:19:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-06T04:28:40.466Z",
               "EditorCaption": ""

@@ -42,7 +42,9 @@ int clrsrc()
 {
     system("@cls||clear");
 }
-
+int bolumBasi() {
+    clrsrc();
+}
 int bolumSonu() {
     printf("\n\nVideoda islenenlerin sonuna gelindi... \n\n\n");
 }
