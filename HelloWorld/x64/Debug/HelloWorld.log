@@ -1,4 +1,4 @@
-﻿  Operators(V4).c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\Operators(V4).c(13,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\Operators(V4).c(36,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+﻿  TypeCon(V7).c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\TypeCon(V7).c(4,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\TypeCon(V7).c(19,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:Operators(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V7).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:TypeCon(V7).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\IO(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:IO(V4).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V6).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:Operators(V6).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(V3).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:dataTypes(V3).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 127,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dataTypes(V3).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(V3).c",
+              "RelativeDocumentMoniker": "dataTypes(V3).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\dataTypes(V3).c",
+              "RelativeToolTip": "dataTypes(V3).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T22:49:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Operators(V4).c",
-              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
-              "RelativeDocumentMoniker": "Operators(V4).c",
-              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V4).c",
-              "RelativeToolTip": "Operators(V4).c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Title": "TypeCon(V7).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V7).c",
+              "RelativeDocumentMoniker": "TypeCon(V7).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\TypeCon(V7).c",
+              "RelativeToolTip": "TypeCon(V7).c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T22:47:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IO(V4).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\IO(V4).c",
+              "RelativeDocumentMoniker": "IO(V4).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\IO(V4).c",
+              "RelativeToolTip": "IO(V4).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T22:46:31.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operators(V6).c",
+              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V6).c",
+              "RelativeDocumentMoniker": "Operators(V6).c",
+              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\Operators(V6).c",
+              "RelativeToolTip": "Operators(V6).c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-08T20:19:58.699Z",
               "EditorCaption": ""
@@ -41,7 +92,7 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAABYAAAAAAAAAAIAwwCQAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-06T04:28:40.466Z",
               "EditorCaption": ""

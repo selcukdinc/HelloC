@@ -10,24 +10,24 @@ int main()
      do
      {
         clrsrc();
-        printf("dataTypes(video2)\t\t(2)\n");
-        printf("InputOutput(video3)\t\t(3)\n");
-        printf("Operators(video4)\t\t(4)\n");
-        printf("TypeConverter(video5)\t\t(5)\n");
+        printf("dataTypes(video3)\t\t(3)\n");
+        printf("InputOutput(video4)\t\t(4)\n");
+        printf("Operators(video6)\t\t(6)\n");
+        printf("TypeConverter(video7)\t\t(7)\n");
         printf("seciminiz: ");
         scanf_s("%d", &videoSecim);
         switch (videoSecim)
         {
-        case 2:
+        case 3:
             dataTypesMain();
             break;
-        case 3:
+        case 4:
             Video3Main();
             break;
-        case 4:
+        case 6:
             Operators();
             break;
-        case 5:
+        case 7:
             typeConverter();
             break;
 
@@ -41,10 +41,13 @@ int main()
 int clrsrc()
 {
     system("@cls||clear");
+    return 0;
 }
 int bolumBasi() {
     clrsrc();
+    return 0;
 }
 int bolumSonu() {
     printf("\n\nVideoda islenenlerin sonuna gelindi... \n\n\n");
+    return 0;
 }
