@@ -5,7 +5,7 @@ int main()
     int videoSecim;
     char devam;
     int secim = 1;
-
+    
     if (secim == 1)
      do
      {
@@ -14,6 +14,7 @@ int main()
         printf("InputOutput(video4)\t\t(4)\n");
         printf("Operators(video6)\t\t(6)\n");
         printf("TypeConverter(video7)\t\t(7)\n");
+        printf("BoolComparasion(video8)\t\t(8)\n");
         printf("seciminiz: ");
         scanf_s("%d", &videoSecim);
         switch (videoSecim)
@@ -22,21 +23,33 @@ int main()
             dataTypesMain();
             break;
         case 4:
-            Video3Main();
+            video4Main();
             break;
         case 6:
-            Operators();
+            operators();
             break;
         case 7:
             typeConverter();
             break;
-
+        case 8:
+            boolComp();
+            break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
         scanf_s("\n%c", &devam);
      } while (devam == 'e' || devam == 'E');
-    
 }
+
+// her yeni sayfada 
+// 
+//bolumBasi();
+//printf("-- Konu Ýsmi (Video?) --\n\n");
+//
+//bolumSonu();
+// 
+// þeklinde bir yol izlenmelidir, 
+//      bu sayede sayfalarýn benzerliði devamlý olacaktýr
+// 
 
 int clrsrc()
 {
@@ -48,6 +61,6 @@ int bolumBasi() {
     return 0;
 }
 int bolumSonu() {
-    printf("\n\nVideoda islenenlerin sonuna gelindi... \n\n\n");
+    printf("\n\nVideoda islenenlerin sonuna gelindi... \n\n");
     return 0;
 }

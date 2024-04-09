@@ -128,11 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dataTypes%28V3%29.c" />
+    <ClCompile Include="%28V8%29BoolCompare.c" />
+    <ClCompile Include="%28V3%29dataTypes.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="IO%28V4%29.c" />
-    <ClCompile Include="Operators%28V6%29.c" />
-    <ClCompile Include="TypeCon%28V7%29.c" />
+    <ClCompile Include="%28V4%29IO.c" />
+    <ClCompile Include="%28V6%29Operators.c" />
+    <ClCompile Include="%28V7%29TypeCon.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

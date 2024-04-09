@@ -18,16 +18,19 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dataTypes%28V3%29.c">
+    <ClCompile Include="%28V3%29dataTypes.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IO%28V4%29.c">
+    <ClCompile Include="%28V4%29IO.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Operators%28V6%29.c">
+    <ClCompile Include="%28V6%29Operators.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TypeCon%28V7%29.c">
+    <ClCompile Include="%28V7%29TypeCon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="%28V8%29BoolCompare.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
