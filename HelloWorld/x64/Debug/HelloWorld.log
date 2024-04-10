@@ -1,13 +1,22 @@
-﻿  (V8)BoolCompare.c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(22,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(35,2): warning C4013: 'satir' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(42,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(59,3): warning C4013: 'sutunYazdir' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(87,3): warning C4013: 'ustYazdir' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(90,3): warning C4013: 'karsilastir' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(71,7): warning C4101: 'deg0': unreferenced local variable
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(68,1): warning C4716: 'satir': must return a value
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(154,1): warning C4716: 'karsilastir': must return a value
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(104,1): warning C4716: 'sutunYazdir': must return a value
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V8)BoolCompare.c(121,1): warning C4716: 'ustYazdir': must return a value
+﻿  (V9)IfElse.c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V9)IfElse.c(4,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V9)IfElse.c(54,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+  main.c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(12,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(22,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(23,17): warning C4013: 'video4Main' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(24,17): warning C4013: 'operators' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(25,17): warning C4013: 'typeConverter' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(26,17): warning C4013: 'boolComp' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(27,17): warning C4013: 'ifElse' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(30,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(30,17):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(30,17):
+  the missing variadic argument 2 is required by format string '%c'
+  C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(30,17):
+  this argument is used as a buffer size
+  
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,5): warning C4013: 'system' undefined; assuming extern returning int
+  Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe
