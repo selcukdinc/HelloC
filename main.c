@@ -5,7 +5,7 @@ int main()
     int videoSecim;
     char devam;
     int secim = 1;
-    
+
     if (secim == 1)
      do
      {
@@ -16,6 +16,7 @@ int main()
         printf("TypeConverter(video7)\t\t(7)\n");
         printf("BoolComparasion(video8)\t\t(8)\n");
         printf("If-ElseStates(Video9)\t\t(9)\n");
+        printf("TernaryOp(Video10)\t\t(10)\n");
         printf("seciminiz: ");
         scanf_s("%d", &videoSecim);
         switch (videoSecim){
@@ -25,6 +26,8 @@ int main()
         case 7: typeConverter(); break;
         case 8: boolComp(); break;
         case 9: ifElse(); break;
+        case 10: ternaryOperators();
+            break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
         scanf_s("\n%c", &devam);

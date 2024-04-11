@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="%28V8%29BoolCompare.c" />
     <ClCompile Include="%28V3%29dataTypes.c" />
+    <ClCompile Include="(V10)ternaryOp.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />
