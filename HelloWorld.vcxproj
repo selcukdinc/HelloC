@@ -136,6 +136,7 @@
     <ClCompile Include="%28V4%29IO.c" />
     <ClCompile Include="%28V6%29Operators.c" />
     <ClCompile Include="%28V7%29TypeCon.c" />
+    <ClCompile Include="%28V11%29switchState.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />

@@ -35,6 +35,9 @@
     <ClCompile Include="(V10)ternaryOp.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="%28V11%29switchState.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

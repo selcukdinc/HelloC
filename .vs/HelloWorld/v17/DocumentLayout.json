@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\(V10)ternaryOp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D334A49-6AC0-430A-A734-BFF7D5D58C00}|HelloWorld.vcxproj|solutionrelative:(V10)ternaryOp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 127,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "(V10)ternaryOp.c",
-              "DocumentMoniker": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\(V10)ternaryOp.c",
-              "RelativeDocumentMoniker": "(V10)ternaryOp.c",
-              "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\(V10)ternaryOp.c",
-              "RelativeToolTip": "(V10)ternaryOp.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-04-11T05:02:58.656Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\selcu\\Masa\u00FCst\u00FC\\WorkAllDay\\Embedded Systems\\C_Independets\\HelloWorld\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAowAYAAAARAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-06T04:28:40.466Z",
               "EditorCaption": ""
