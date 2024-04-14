@@ -132,6 +132,7 @@
     <ClCompile Include="%28V3%29dataTypes.c" />
     <ClCompile Include="(V10)ternaryOp.c" />
     <ClCompile Include="(V12)whileLoop.c" />
+    <ClCompile Include="(V13)forLoop.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />

@@ -41,6 +41,9 @@
     <ClCompile Include="(V12)whileLoop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V13)forLoop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

@@ -19,7 +19,7 @@ int main()
         printf("TernaryOp(Video10)\t\t(10)\n");
         printf("SwitchState(Video11)\t\t(11)\n");
         printf("WhileLoop(Video12)\t\t(12)\n");
-        //printf("ForLoop(Video13)\t\t(13)\n");
+        printf("ForLoop(Video13)\t\t(13)\n");
         //printf("BreakCon(Video14)\t\t(14)\n");
         //printf("CFunction(Video15)\t\t(15)\n");
         printf("seciminiz: ");
@@ -34,7 +34,7 @@ int main()
         case 10: ternaryOperators(); break;
         case 11: switchState(); break;
         case 12: whileLoop(); break;
-        //case 13: ifElse(); break;
+        case 13: forLoop(); break;
         //case 14: ifElse(); break;
         //case 15: ifElse(); break;
         }
