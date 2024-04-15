@@ -133,6 +133,8 @@
     <ClCompile Include="(V10)ternaryOp.c" />
     <ClCompile Include="(V12)whileLoop.c" />
     <ClCompile Include="(V13)forLoop.c" />
+    <ClCompile Include="(V14)breakContinue.c" />
+    <ClCompile Include="(V15)Cfunctions.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />

@@ -44,6 +44,12 @@
     <ClCompile Include="(V13)forLoop.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V14)breakContinue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="(V15)Cfunctions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

@@ -20,8 +20,15 @@ int main()
         printf("SwitchState(Video11)\t\t(11)\n");
         printf("WhileLoop(Video12)\t\t(12)\n");
         printf("ForLoop(Video13)\t\t(13)\n");
-        //printf("BreakCon(Video14)\t\t(14)\n");
-        //printf("CFunction(Video15)\t\t(15)\n");
+        printf("BreakCon(Video14)\t\t(14)\n");
+        printf("CFunction(Video15)\t\t(15)\n");
+        //printf("VarScope(Video16)\t\t(16)\n");
+        //printf("LibFunc(Video17)\t\t(17)\n");
+        //printf("Recursion(Video18)\t\t(18)\n");
+        //printf("CArrays(Video19)\t\t(19)\n");
+        //printf("MultiArr(Video20)\t\t(20)\n");
+        //printf("CStrings(Video21)\t\t(21)\n");
+        //printf("CStrFunc(Video22)\t\t(22)\n");
         printf("seciminiz: ");
         scanf_s("%d", &videoSecim);
         switch (videoSecim){
@@ -35,24 +42,36 @@ int main()
         case 11: switchState(); break;
         case 12: whileLoop(); break;
         case 13: forLoop(); break;
-        //case 14: ifElse(); break;
-        //case 15: ifElse(); break;
+        case 14: breakContinue(); break;
+        case 15: functions(); break;
+        //case 16: ifElse(); break;
+        //case 17: ifElse(); break;
+        //case 18: ifElse(); break;
+        //case 19: ifElse(); break;
+        //case 20: ifElse(); break;
+        //case 21: ifElse(); break;
+        //case 22: ifElse(); break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
         scanf_s("\n%c", &devam);
      } while (devam == 'e' || devam == 'E');
 }
 
+
 // her yeni sayfada 
+
+//#include <stdio.h>
 // 
-//bolumBasi();
-//printf("-- Konu Ýsmi (Video?) --\n\n");
+//int isim(){ 
+//  bolumBasi();
+//  printf("-- Konu Ýsmi (Video?) --\n\n");
 //
-//bolumSonu();
-// 
+//  bolumSonu();
+//  return 0;
+//}
+
 // þeklinde bir yol izlenmelidir, 
 //      bu sayede sayfalarýn benzerliði devamlý olacaktýr
-// 
 
 int clrsrc()
 {
