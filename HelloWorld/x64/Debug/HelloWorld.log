@@ -1,4 +1,7 @@
-﻿  main.c
+﻿  (V17)libraryFunction.c
+  main.c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V17)libraryFunction.c(5,3): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V17)libraryFunction.c(44,3): warning C4013: 'bolumSonu' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(12,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(35,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(36,17): warning C4013: 'video4Main' undefined; assuming extern returning int
@@ -13,6 +16,7 @@ C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\m
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(45,18): warning C4013: 'breakContinue' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(46,18): warning C4013: 'functions' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,18): warning C4013: 'varScope' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(48,18): warning C4013: 'libFunc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(56,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
   C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(56,17):
   placeholders and their parameters expect 2 variadic arguments, but 1 were provided
@@ -22,4 +26,5 @@ C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\m
   this argument is used as a buffer size
   
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(78,5): warning C4013: 'system' undefined; assuming extern returning int
+  Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe

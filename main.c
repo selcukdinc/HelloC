@@ -23,7 +23,7 @@ int main()
         printf("BreakCon(Video14)\t\t(14)\n");
         printf("CFunction(Video15)\t\t(15)\n");
         printf("VarScope(Video16)\t\t(16)\n");
-        //printf("LibFunc(Video17)\t\t(17)\n");
+        printf("LibFunc(Video17)\t\t(17)\n");
         //printf("Recursion(Video18)\t\t(18)\n");
         //printf("CArrays(Video19)\t\t(19)\n");
         //printf("MultiArr(Video20)\t\t(20)\n");
@@ -45,7 +45,7 @@ int main()
         case 14: breakContinue(); break;
         case 15: functions(); break;
         case 16: varScope(); break;
-        //case 17: libFunc(); break;
+        case 17: libFunc(); break;
         //case 18: recursion(); break;
         //case 19: ifElse(); break;
         //case 20: ifElse(); break;
