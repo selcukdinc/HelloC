@@ -50,6 +50,9 @@
     <ClCompile Include="(V15)Cfunctions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V16)varScope.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

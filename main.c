@@ -5,7 +5,7 @@ int main()
     int videoSecim;
     char devam;
     int secim = 1;
-    
+
     if (secim == 1)
      do
      {
@@ -22,7 +22,7 @@ int main()
         printf("ForLoop(Video13)\t\t(13)\n");
         printf("BreakCon(Video14)\t\t(14)\n");
         printf("CFunction(Video15)\t\t(15)\n");
-        //printf("VarScope(Video16)\t\t(16)\n");
+        printf("VarScope(Video16)\t\t(16)\n");
         //printf("LibFunc(Video17)\t\t(17)\n");
         //printf("Recursion(Video18)\t\t(18)\n");
         //printf("CArrays(Video19)\t\t(19)\n");
@@ -44,9 +44,9 @@ int main()
         case 13: forLoop(); break;
         case 14: breakContinue(); break;
         case 15: functions(); break;
-        //case 16: ifElse(); break;
-        //case 17: ifElse(); break;
-        //case 18: ifElse(); break;
+        case 16: varScope(); break;
+        //case 17: libFunc(); break;
+        //case 18: recursion(); break;
         //case 19: ifElse(); break;
         //case 20: ifElse(); break;
         //case 21: ifElse(); break;
