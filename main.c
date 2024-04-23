@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()
@@ -24,13 +25,14 @@ int main()
         printf("CFunction(Video15)\t\t(15)\n");
         printf("VarScope(Video16)\t\t(16)\n");
         printf("LibFunc(Video17)\t\t(17)\n");
-        //printf("Recursion(Video18)\t\t(18)\n");
+        printf("Recursion(Video18)\t\t(18)\n");
         //printf("CArrays(Video19)\t\t(19)\n");
         //printf("MultiArr(Video20)\t\t(20)\n");
         //printf("CStrings(Video21)\t\t(21)\n");
         //printf("CStrFunc(Video22)\t\t(22)\n");
+        //printf("Pointers(Video23)\t\t(23)\n");
         printf("seciminiz: ");
-        scanf_s("%d", &videoSecim);
+        scanf("%d", &videoSecim);
         switch (videoSecim){
         case 3: dataTypesMain(); break;
         case 4: video4Main(); break;
@@ -46,29 +48,32 @@ int main()
         case 15: functions(); break;
         case 16: varScope(); break;
         case 17: libFunc(); break;
-        //case 18: recursion(); break;
-        //case 19: ifElse(); break;
-        //case 20: ifElse(); break;
-        //case 21: ifElse(); break;
-        //case 22: ifElse(); break;
+        case 18: recursion(); break;
+        //case 19: arrays(); break;
+        //case 20: multiArrays(); break;
+        //case 21: cStrings(); break;
+        //case 22: cStringFunc(); break;
+        //case 23: cPointers(); break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
-        scanf_s("\n%c", &devam);
+         scanf("\n%c", &devam);
      } while (devam == 'e' || devam == 'E');
 }
 
 
 // her yeni sayfada 
 
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
 // 
 //int isim(){ 
-//  bolumBasi();
-//  printf("-- Konu Ýsmi (Video?) --\n\n");
-//
-//  bolumSonu();
-//  return 0;
+//    bolumBasi();
+//    printf("-- Konu Ýsmi (Video?) --\n\n");
+//      
+//    bolumSonu();
+//    return 0;
 //}
+
 
 // þeklinde bir yol izlenmelidir, 
 //      bu sayede sayfalarýn benzerliði devamlý olacaktýr
