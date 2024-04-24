@@ -1,25 +1,24 @@
-﻿  (V18)recursion.c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V18)recursion.c(5,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V18)recursion.c(11,11): warning C4013: 'sum' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V18)recursion.c(19,13): warning C4013: 'factorial' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V18)recursion.c(21,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+﻿  (V19)Arrays.c
   main.c
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V19)Arrays.c(5,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V19)Arrays.c(52,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(13,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(37,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(38,17): warning C4013: 'video4Main' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(39,17): warning C4013: 'operators' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(40,17): warning C4013: 'typeConverter' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(41,17): warning C4013: 'boolComp' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(42,17): warning C4013: 'ifElse' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(43,18): warning C4013: 'ternaryOperators' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(44,18): warning C4013: 'switchState' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(45,18): warning C4013: 'whileLoop' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(46,18): warning C4013: 'forLoop' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,18): warning C4013: 'breakContinue' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(48,18): warning C4013: 'functions' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(49,18): warning C4013: 'varScope' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(50,18): warning C4013: 'libFunc' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(51,18): warning C4013: 'recursion' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(83,5): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(44,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(45,17): warning C4013: 'video4Main' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(46,17): warning C4013: 'operators' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,17): warning C4013: 'typeConverter' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(48,17): warning C4013: 'boolComp' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(49,17): warning C4013: 'ifElse' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(50,18): warning C4013: 'ternaryOperators' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(51,18): warning C4013: 'switchState' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(52,18): warning C4013: 'whileLoop' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(53,18): warning C4013: 'forLoop' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(54,18): warning C4013: 'breakContinue' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(55,18): warning C4013: 'functions' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(56,18): warning C4013: 'varScope' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(57,18): warning C4013: 'libFunc' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(58,18): warning C4013: 'recursion' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(59,18): warning C4013: 'arrays' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(97,5): warning C4013: 'system' undefined; assuming extern returning int
   Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe

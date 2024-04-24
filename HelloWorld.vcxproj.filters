@@ -59,6 +59,9 @@
     <ClCompile Include="(V18)recursion.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V19)Arrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

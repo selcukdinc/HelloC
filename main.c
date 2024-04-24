@@ -6,7 +6,7 @@ int main()
     int videoSecim;
     char devam;
     int secim = 1;
-
+    
     if (secim == 1)
      do
      {
@@ -26,11 +26,18 @@ int main()
         printf("VarScope(Video16)\t\t(16)\n");
         printf("LibFunc(Video17)\t\t(17)\n");
         printf("Recursion(Video18)\t\t(18)\n");
-        //printf("CArrays(Video19)\t\t(19)\n");
+        printf("CArrays(Video19)\t\t(19)\n");
         //printf("MultiArr(Video20)\t\t(20)\n");
         //printf("CStrings(Video21)\t\t(21)\n");
         //printf("CStrFunc(Video22)\t\t(22)\n");
         //printf("Pointers(Video23)\t\t(23)\n");
+        //printf("* & Arrays(Video24)\t\t(24)\n");
+        //printf("* & Func(Video25)\t\t(25)\n");
+        //printf("CStruct(Video26)\t\t(26)\n");
+        //printf("Enumerations(Video27)\t\t(27)\n");
+        //printf("MemAlloc(Video28)\t\t(28)\n");
+        //printf("FileHand(Video29)\t\t(29)\n");
+        //printf("PreproMacro(Video30)\t\t(30)\n");
         printf("seciminiz: ");
         scanf("%d", &videoSecim);
         switch (videoSecim){
@@ -49,11 +56,18 @@ int main()
         case 16: varScope(); break;
         case 17: libFunc(); break;
         case 18: recursion(); break;
-        //case 19: arrays(); break;
+        case 19: arrays(); break;
         //case 20: multiArrays(); break;
         //case 21: cStrings(); break;
         //case 22: cStringFunc(); break;
         //case 23: cPointers(); break;
+        //case 24: pointerAndArr(); break;
+        //case 25: pointAndFunc(); break;
+        //case 26: cStruct(); break;
+        //case 27: cPointers(); break;
+        //case 28: cPointers(); break;
+        //case 29: cPointers(); break;
+        //case 30: cPointers(); break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
          scanf("\n%c", &devam);
