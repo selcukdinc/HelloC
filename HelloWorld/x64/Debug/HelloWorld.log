@@ -1,7 +1,7 @@
-﻿  (V19)Arrays.c
+﻿  (V20)MultiArrays.c
   main.c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V19)Arrays.c(5,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V19)Arrays.c(52,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V20)MultiArrays.c(5,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V20)MultiArrays.c(35,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(13,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(44,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(45,17): warning C4013: 'video4Main' undefined; assuming extern returning int
@@ -19,6 +19,7 @@ C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\m
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(57,18): warning C4013: 'libFunc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(58,18): warning C4013: 'recursion' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(59,18): warning C4013: 'arrays' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(60,18): warning C4013: 'multiArrays' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(97,5): warning C4013: 'system' undefined; assuming extern returning int
   Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe

@@ -27,7 +27,7 @@ int main()
         printf("LibFunc(Video17)\t\t(17)\n");
         printf("Recursion(Video18)\t\t(18)\n");
         printf("CArrays(Video19)\t\t(19)\n");
-        //printf("MultiArr(Video20)\t\t(20)\n");
+        printf("MultiArr(Video20)\t\t(20)\n");
         //printf("CStrings(Video21)\t\t(21)\n");
         //printf("CStrFunc(Video22)\t\t(22)\n");
         //printf("Pointers(Video23)\t\t(23)\n");
@@ -57,7 +57,7 @@ int main()
         case 17: libFunc(); break;
         case 18: recursion(); break;
         case 19: arrays(); break;
-        //case 20: multiArrays(); break;
+        case 20: multiArrays(); break;
         //case 21: cStrings(); break;
         //case 22: cStringFunc(); break;
         //case 23: cPointers(); break;
