@@ -65,6 +65,9 @@
     <ClCompile Include="(V20)MultiArrays.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(21)CStrings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
