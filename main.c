@@ -29,7 +29,7 @@ int main()
         printf("CArrays(Video19)\t\t(19)\n");
         printf("MultiArr(Video20)\t\t(20)\n");
         printf("CStrings(Video21)\t\t(21)\n");
-        //printf("CStrFunc(Video22)\t\t(22)\n");
+        printf("CStrFunc(Video22)\t\t(22)\n");
         //printf("Pointers(Video23)\t\t(23)\n");
         //printf("* & Arrays(Video24)\t\t(24)\n");
         //printf("* & Func(Video25)\t\t(25)\n");
@@ -38,6 +38,8 @@ int main()
         //printf("MemAlloc(Video28)\t\t(28)\n");
         //printf("FileHand(Video29)\t\t(29)\n");
         //printf("PreproMacro(Video30)\t\t(30)\n");
+        //printf("RockPaper(Quest1)\t\t(31)\n");
+        //printf("TicTacToe(Quest2)\t\t(32)\n");
         printf("seciminiz: ");
         scanf("%d", &videoSecim);
         switch (videoSecim){
@@ -59,15 +61,17 @@ int main()
         case 19: arrays(); break;
         case 20: multiArrays(); break;
         case 21: cStrings(); break;
-        //case 22: cStringFunc(); break;
+        case 22: cStringFunc(); break;
         //case 23: cPointers(); break;
         //case 24: pointerAndArr(); break;
         //case 25: pointAndFunc(); break;
         //case 26: cStruct(); break;
-        //case 27: cPointers(); break;
-        //case 28: cPointers(); break;
-        //case 29: cPointers(); break;
-        //case 30: cPointers(); break;
+        //case 27: enums(); break;
+        //case 28: dynamicMalloc(); break;
+        //case 29: fileHandling(); break;
+        //case 30: preprocAndMacros(); break;
+        //case 31: rockPaperScissor(); break;
+        //case 32: ticTacToe(); break;
         }
          printf("Devam edilsin mi? (E/H)\nseciminiz: ");
          scanf("\n%c", &devam);
