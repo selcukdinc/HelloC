@@ -1,7 +1,4 @@
-﻿  (22)CStringFunc.c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(22)CStringFunc.c(6,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(22)CStringFunc.c(62,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
-  main.c
+﻿  main.c
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(13,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(46,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,17): warning C4013: 'video4Main' undefined; assuming extern returning int
@@ -22,6 +19,6 @@ C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\m
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(62,18): warning C4013: 'multiArrays' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(63,18): warning C4013: 'cStrings' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(64,18): warning C4013: 'cStringFunc' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(65,18): warning C4013: 'cPointers' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(101,5): warning C4013: 'system' undefined; assuming extern returning int
-  Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe

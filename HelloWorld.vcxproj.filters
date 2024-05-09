@@ -71,6 +71,9 @@
     <ClCompile Include="(22)CStringFunc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V23)Pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
