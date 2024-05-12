@@ -31,7 +31,7 @@ int main()
         printf("CStrings(Video21)\t\t(21)\n");
         printf("CStrFunc(Video22)\t\t(22)\n");
         printf("Pointers(Video23)\t\t(23)\n");
-        //printf("* & Arrays(Video24)\t\t(24)\n");
+        printf("* & Arrays(Video24)\t\t(24)\n");
         //printf("* & Func(Video25)\t\t(25)\n");
         //printf("CStruct(Video26)\t\t(26)\n");
         //printf("Enumerations(Video27)\t\t(27)\n");
@@ -63,7 +63,7 @@ int main()
         case 21: cStrings(); break;
         case 22: cStringFunc(); break;
         case 23: cPointers(); break;
-        //case 24: pointerAndArr(); break;
+        case 24: pointerAndArr(); break;
         //case 25: pointAndFunc(); break;
         //case 26: cStruct(); break;
         //case 27: enums(); break;

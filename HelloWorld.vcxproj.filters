@@ -74,6 +74,9 @@
     <ClCompile Include="(V23)Pointers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V24)PointersAndArrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
