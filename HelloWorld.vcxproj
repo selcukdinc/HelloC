@@ -144,6 +144,7 @@
     <ClCompile Include="(V20)MultiArrays.c" />
     <ClCompile Include="(V23)Pointers.c" />
     <ClCompile Include="(V24)PointersAndArrays.c" />
+    <ClCompile Include="(V25)PointersAndFunctions.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />
