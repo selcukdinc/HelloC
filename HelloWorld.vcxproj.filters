@@ -80,6 +80,9 @@
     <ClCompile Include="(V25)PointersAndFunctions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V26)CStruct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
