@@ -34,7 +34,7 @@ int main()
         printf("* & Arrays(Video24)\t\t(24)\n");
         printf("* & Func(Video25)\t\t(25)\n");
         printf("CStruct(Video26)\t\t(26)\n");
-        //printf("Enumerations(Video27)\t\t(27)\n");
+        printf("Enumerations(Video27)\t\t(27)\n");
         //printf("MemAlloc(Video28)\t\t(28)\n");
         //printf("FileHand(Video29)\t\t(29)\n");
         //printf("PreproMacro(Video30)\t\t(30)\n");
@@ -66,7 +66,7 @@ int main()
         case 24: pointerAndArr(); break;
         case 25: pointAndFunc(); break;
         case 26: cStruct(); break;
-        //case 27: enums(); break;
+        case 27: enums(); break;
         //case 28: dynamicMalloc(); break;
         //case 29: fileHandling(); break;
         //case 30: preprocAndMacros(); break;
