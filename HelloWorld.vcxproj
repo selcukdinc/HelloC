@@ -147,6 +147,7 @@
     <ClCompile Include="(V25)PointersAndFunctions.c" />
     <ClCompile Include="(V26)CStruct.c" />
     <ClCompile Include="(V27)Enums.c" />
+    <ClCompile Include="(V28)DynamicMemoryAllocation.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />

@@ -1,7 +1,9 @@
-﻿  (V27)Enums.c
+﻿  (V28)DynamicMemoryAllocation.c
   main.c
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V27)Enums.c(26,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
-C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V27)Enums.c(65,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V28)DynamicMemoryAllocation.c(5,2): warning C4013: 'bolumBasi' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V28)DynamicMemoryAllocation.c(10,20): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V28)DynamicMemoryAllocation.c(10,43): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\(V28)DynamicMemoryAllocation.c(103,2): warning C4013: 'bolumSonu' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(13,9): warning C4013: 'clrsrc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(46,17): warning C4013: 'dataTypesMain' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(47,17): warning C4013: 'video4Main' undefined; assuming extern returning int
@@ -27,6 +29,7 @@ C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\m
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(67,18): warning C4013: 'pointAndFunc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(68,18): warning C4013: 'cStruct' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(69,18): warning C4013: 'enums' undefined; assuming extern returning int
+C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(70,18): warning C4013: 'dynamicMalloc' undefined; assuming extern returning int
 C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\main.c(101,5): warning C4013: 'system' undefined; assuming extern returning int
   Generating Code...
   HelloWorld.vcxproj -> C:\Users\selcu\Masaüstü\WorkAllDay\Embedded Systems\C_Independets\HelloWorld\x64\Debug\HelloWorld.exe
