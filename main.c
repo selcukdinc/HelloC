@@ -36,7 +36,7 @@ int main()
         printf("CStruct(Video26)\t\t(26)\n");
         printf("Enumerations(Video27)\t\t(27)\n");
         printf("MemAlloc(Video28)\t\t(28)\n");
-        //printf("FileHand(Video29)\t\t(29)\n");
+        printf("FileHand(Video29)\t\t(29)\n");
         //printf("PreproMacro(Video30)\t\t(30)\n");
         //printf("RockPaper(Quest1)\t\t(31)\n");
         //printf("TicTacToe(Quest2)\t\t(32)\n");
@@ -68,7 +68,7 @@ int main()
         case 26: cStruct(); break;
         case 27: enums(); break;
         case 28: dynamicMalloc(); break;
-        //case 29: fileHandling(); break;
+        case 29: fileHandling(); break;
         //case 30: preprocAndMacros(); break;
         //case 31: rockPaperScissor(); break;
         //case 32: ticTacToe(); break;
