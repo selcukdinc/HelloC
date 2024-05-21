@@ -149,6 +149,7 @@
     <ClCompile Include="(V27)Enums.c" />
     <ClCompile Include="(V28)DynamicMemoryAllocation.c" />
     <ClCompile Include="(V29)CFileHandling.c" />
+    <ClCompile Include="(V30)PreprocesorAndMacros.c" />
     <ClCompile Include="(V9)IfElse.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="%28V4%29IO.c" />

@@ -92,6 +92,9 @@
     <ClCompile Include="(V29)CFileHandling.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="(V30)PreprocesorAndMacros.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
