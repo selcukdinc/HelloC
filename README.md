@@ -12,3 +12,13 @@ Uygulama Örneği (7. videodan bir örnek)|
 Uygulama Örneği (8. videodan bir örnek)|
 ![alt_text](https://github.com/selcukdinc/HelloC/blob/main/images/V8.png?raw=true) |
 </p>
+
+# Branch Information
+
+
+
+- main
+  -   - b61e645 - Create main.yml
+        - No description provided.
+
+
